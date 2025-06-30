@@ -3,12 +3,12 @@
 
 -------------------------------------------------------------------------------------------------------
 
-# Task_1 : Perform basic mathematical operations\t
+# Task_1 : Perform basic mathematical operations
 # Task_2 : Create a generalised greeting 
 
 -------------------------------------------------------------------------------------------------------
 
-# 01_Simple_Program : hello world\t
-# 02_Celsius_Farenhiet : conversion between celsius and farenhiet\t
+# 01_Simple_Program : hello world
+# 02_Celsius_Farenhiet : conversion between celsius and farenhiet
 # 03_Simple_Interest : simple interest
 # 04_Numeric_Functions : max(), min(), abs(), pow()
