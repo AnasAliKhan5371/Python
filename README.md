@@ -18,3 +18,12 @@
 # 02_Celsius_Farenhiet : conversion between celsius and farenhiet
 # 03_Simple_Interest : simple interest
 # 04_Numeric_Functions : max(), min(), abs(), pow()
+# 05_if_else : marks pass or fail
+# 06_Elif : simple calculator
+# 07_Nested_If_Else : check if no. is positive, zero, negative
+# 08_Range : 
+# 09_For_Loop :
+# 10_While_Loop :
+#
+#
+#
