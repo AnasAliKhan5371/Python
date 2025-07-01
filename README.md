@@ -2,10 +2,10 @@
 # I am currentle learning python. These are programs that i have written and some assignment tasks.
 
 -------------------------------------------------------------------------------------------------------
-
-# Task_1 : Perform basic mathematical operations
-# Task_2 : Create a generalised greeting 
-
+'''Assignment 1
+ Task_1 : Perform basic mathematical operations
+ Task_2 : Create a generalised greeting 
+'''
 -------------------------------------------------------------------------------------------------------
 
 # 01_Simple_Program : hello world
