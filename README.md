@@ -26,6 +26,12 @@
 # Task_2 : write and append data to file
 
 -------------------------------------------------------------------------------------------------------
+# ASSIGNMENT 5
+
+# Task 1 : Create a Dictionary of Student Marks
+# Task 2 : Demonstrate List Slicing
+
+-------------------------------------------------------------------------------------------------------
 # 01_Simple_Program : hello world
 # 02_Celsius_Farenhiet : conversion between celsius and farenhiet
 # 03_Simple_Interest : simple interest
