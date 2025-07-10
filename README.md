@@ -54,3 +54,29 @@
 # 20_Add_Data_To_File : write in file
 # 21_Append_Data_To_File : add to existing data
 # 22_Read_And_Write_Mode : read, write using same mode
+# 23_Dictionaries : syntax
+# 24_Dictionary_Functions : keys(), values(), get(), clear(). len()
+# 25_Lists : concat
+# 26_List_Functions : add element, remove, ascending order, reverse(), index()
+# 27_List_Slicing : 
+# 28_List_Comprehension : 
+# 29_Sets : add & delet elements, check element, intersection, union, subset
+# 30_String_Functions : capitalize(), upper(), lower(), startswith(), endswith(), replace(), find(), lstrip(), rstrip(), split(), splitlines(), join()
+# 31_String_ Formatting : format()
+# 32_Tuples : concatinate, len(), sorted(), index()
+# 33_Functional_Programming : return a function, function as argument
+# 34_Lambda_Function : lambda()
+# 35_Filter_Function : filter()
+# 36_Map_Function : map()
+# 37_Iterator_and_Generator : iterator, generator
+# 38_OOP : class, object, attribute, method
+# 39_Constructor_And_Destructor : constructor, destructor
+# 40_Function_VS_OOP : 
+# 41_
+# 42_
+# 43_
+# 44_
+# 45_
+
+
+
