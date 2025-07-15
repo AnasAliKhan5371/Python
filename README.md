@@ -72,11 +72,47 @@
 # 38_OOP : class, object, attribute, method
 # 39_Constructor_And_Destructor : constructor, destructor
 # 40_Function_VS_OOP : 
-# 41_
-# 42_
-# 43_
-# 44_
-# 45_
+# 41_Inheritance : 
+# 42_Single_Inheritance : 
+# 43_Multi_Level_Inheritance : 
+# 44_Multiple_Inheritance : 
+# 45_Operator_Overloading : 
+# 46_Data_Hiding : public, private
+# 47_Regelar_Expression : match()
+# 48_Findall : findall()
+# 49_Search : search()
+# 50_Sub : sub()
+# 51_Characters_and_Sequences_1 : ^ , $ , . , \d , \D, \s, \S
+# 52_Characters_and_Sequences_2 : * , + , ( , ) , ? 
+# 53_Characters_and_Sequences_3 : [], [aeiou], [^xyz], [a-z 0-9], {}
+# 54_Hello_World_Using_Tinkter : 
+# 55_Basic_Modification : title, dimensions, background color
+# 56_Frames_and_Buttons_TINKTER : frames, buttons
+# 57_Entry_Box_and_Grid_Layout : entry box, grid
+# 58_Pack : 
+# 59_Handling_Buttons :
+# 60_Menubar : 
+# 61_
+# 62_
+# 62
+# 64
+# 65
+# 66
+# 67
+# 68
+# 69
+# 70
+# 71
+# 72
+# 72
+# 74
+# 75
+# 76
+# 77
+# 78
+# 79
+# 80
+
 
 
 
