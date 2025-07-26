@@ -98,22 +98,20 @@
 # 58_Pack : 
 # 59_Handling_Buttons :
 # 60_Menubar : 
-# 61_
-# 62_
-# 62
-# 64
-# 65
-# 66
-# 67
-# 68
-# 69
-# 70
-# 71
-# 72
-# 72
-# 74
-# 75
-# 76
+# 61_Message_Box : 
+# 62_Drawing : 
+# 62_Message_Box_2 : 
+# 64_Check_box : 
+# 65_Place : 
+# 66_Calculator_Using_Tkinter
+
+
+# 71_connect : 
+# 72_create : 
+# 72_insert : 
+# 74_extract : 
+# 75_user : 
+
 # 77
 # 78
 # 79
