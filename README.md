@@ -32,6 +32,12 @@
 # Task 2 : Demonstrate List Slicing
 
 -------------------------------------------------------------------------------------------------------
+
+# ASSIGNMENT 6
+
+# Task 1 : Create calculator using Tkinter
+
+-------------------------------------------------------------------------------------------------------
 # 01_Simple_Program : hello world
 # 02_Celsius_Farenhiet : conversion between celsius and farenhiet
 # 03_Simple_Interest : simple interest
