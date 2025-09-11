@@ -13,7 +13,7 @@ email=driver.find_element(By.XPATH,'//*[@id="email"]')
 email.send_keys('anasalikhan991@gmail.com')
 
 password=driver.find_element(By.XPATH,'.//*[@id="pass"]')
-password.send_keys('***********'+ Keys.RETURN) 
+password.send_keys('YOUR_PASSWORD'+ Keys.RETURN) 
 
 time.sleep(70)
 
@@ -41,3 +41,4 @@ for button in post:
 input("Press Enter to close the browser...")
 
 driver.quit()
+
