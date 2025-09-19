@@ -10,3 +10,6 @@
 # 04_Shopping_List_App
 # This script provides an interactive menu for managing a shopping list.
 # The core of the application is a Python list named shopping_list.
+----------------------------------------------------------------------------------------------------------------------
+# 05_Contact_Book
+# Dictionary that allows you to add, view, search, update, and delete contacts. 
