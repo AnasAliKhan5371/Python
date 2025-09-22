@@ -13,3 +13,10 @@
 ----------------------------------------------------------------------------------------------------------------------
 # 05_Contact_Book
 # Dictionary that allows you to add, view, search, update, and delete contacts. 
+----------------------------------------------------------------------------------------------------------------------
+# 06_Ingredient_Checker
+# check a list of food products against a user's list of allergens or dietary restrictions.
+# use tuples to store ingredient lists for each product and sets for an efficient way to check for allergens.
+----------------------------------------------------------------------------------------------------------------------
+# 07_Note_Taking_App
+# create, view, list, and delete notes, which will be stored as individual text files on your computer.
