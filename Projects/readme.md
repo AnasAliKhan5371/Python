@@ -34,3 +34,11 @@
 # 09_Temperature_Converter
 # function with return values
 # Each function performs a calculation and uses returns result back to the main program to be displayed.
+----------------------------------------------------------------------------------------------------------------------
+# 10_Student_Grade_Manager
+# list comprehensions
+# view student data, find passing students, calculate the class average, and identify top performers.
+----------------------------------------------------------------------------------------------------------------------
+# 11_Random_Password_Generator
+# modules and libraries
+# program will ask you for the desired password length and what types of characters to include.
